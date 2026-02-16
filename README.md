@@ -1,6 +1,6 @@
 # Hi, I am Astha 👋
 
-EDUCATION:
+#EDUCATION:
 B.Sc.(hons) in Computer Science with Mathematics student at Banaras Hindu University  
 
 
@@ -10,7 +10,7 @@ I Know C programming language and web designing  (HTML,CSS) and Javascript(Basic
  Exploring Web Development  
 🚀 Solving problems daily to improve my coding skills on Geeks for Geeks
 
-#SKILLS
+##SKILLS
 - C
 - Basic DSA
 - JavaScript(basic)
